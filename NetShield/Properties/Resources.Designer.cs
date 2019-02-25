@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NetShield.Properties
+namespace NestShield.Properties
 {
 
 

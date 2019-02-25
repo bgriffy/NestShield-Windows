@@ -1,4 +1,4 @@
-namespace NetShield
+namespace NestShield
 {
     partial class Form1
     {

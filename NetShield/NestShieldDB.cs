@@ -10,9 +10,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetShield
+namespace NestShield
 {
-    class NetShieldDB
+    class NestShieldDB
     {
         IFirebaseConfig firebaseConfig = new FirebaseConfig
         {
@@ -22,7 +22,7 @@ namespace NetShield
 
         IFirebaseClient firebaseClient;
 
-        public NetShieldDB()
+        public NestShieldDB()
         {
             firebaseClient = new FirebaseClient(firebaseConfig);
         }
